@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AT, ST=AT, L=Vienna, O=UrbanShield, CN=UrbanShield CA/emailAddress=info@urbanshield.net
+        Validity
+            Not Before: Dec 28 23:18:42 2009 GMT
+            Not After : Dec 26 23:18:42 2019 GMT
+        Subject: C=AT, ST=AT, L=Vienna, O=UrbanShield, CN=client/emailAddress=info@urbanshield.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:bc:7c:c6:4f:ad:00:dc:80:e7:07:75:41:20:a4:
+                    60:9a:59:aa:76:c7:44:24:48:13:54:66:ce:11:77:
+                    5e:60:d1:30:5d:80:80:04:ec:ca:64:29:2b:f7:fa:
+                    55:52:65:91:9f:e0:04:5f:f7:60:44:19:c1:79:da:
+                    06:56:c1:2b:95:6d:41:61:b1:d3:b8:4e:c0:a8:f7:
+                    82:2a:1a:f2:12:b1:40:41:25:7b:06:0a:ae:7b:b9:
+                    4b:78:d9:67:a6:52:3e:11:6d:57:ff:de:d1:50:b2:
+                    35:97:db:6a:cc:b5:05:45:d9:9d:c3:34:55:15:2c:
+                    e1:cf:62:eb:2a:90:fa:b5:0f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                4D:15:7F:67:8F:FA:CA:F1:3F:33:23:CF:6D:F7:BC:19:6A:EA:56:6E
+            X509v3 Authority Key Identifier: 
+                keyid:79:F3:54:07:95:F1:5C:9B:DC:9E:3D:15:A5:51:4B:14:C5:48:70:46
+                DirName:/C=AT/ST=AT/L=Vienna/O=UrbanShield/CN=UrbanShield CA/emailAddress=info@urbanshield.net
+                serial:9D:8A:4E:BE:63:0B:FC:6C
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        97:08:67:d9:3b:f3:93:6d:c0:61:33:64:ad:32:6e:ac:de:41:
+        36:f8:78:52:5a:06:a3:fe:f4:c7:a1:58:00:19:f0:88:66:42:
+        a7:a3:9f:9a:10:d5:7b:2d:79:89:07:32:d2:86:57:ea:a9:5b:
+        e8:18:2f:20:bc:39:a2:cb:12:0c:4e:d0:82:39:d6:b2:c9:20:
+        bf:f0:95:6f:5c:c9:a0:84:eb:ba:8b:f2:d5:ef:e7:7e:fe:90:
+        9a:56:83:a7:cd:3e:a6:54:95:02:76:36:96:c4:76:33:3b:ba:
+        74:97:e5:28:9c:f7:cd:58:dd:34:5d:05:f1:61:00:17:64:43:
+        3b:6a
+-----BEGIN CERTIFICATE-----
+MIIDozCCAwygAwIBAgIBAjANBgkqhkiG9w0BAQUFADB/MQswCQYDVQQGEwJBVDEL
+MAkGA1UECBMCQVQxDzANBgNVBAcTBlZpZW5uYTEUMBIGA1UEChMLVXJiYW5TaGll
+bGQxFzAVBgNVBAMTDlVyYmFuU2hpZWxkIENBMSMwIQYJKoZIhvcNAQkBFhRpbmZv
+QHVyYmFuc2hpZWxkLm5ldDAeFw0wOTEyMjgyMzE4NDJaFw0xOTEyMjYyMzE4NDJa
+MHcxCzAJBgNVBAYTAkFUMQswCQYDVQQIEwJBVDEPMA0GA1UEBxMGVmllbm5hMRQw
+EgYDVQQKEwtVcmJhblNoaWVsZDEPMA0GA1UEAxMGY2xpZW50MSMwIQYJKoZIhvcN
+AQkBFhRpbmZvQHVyYmFuc2hpZWxkLm5ldDCBnzANBgkqhkiG9w0BAQEFAAOBjQAw
+gYkCgYEAvHzGT60A3IDnB3VBIKRgmlmqdsdEJEgTVGbOEXdeYNEwXYCABOzKZCkr
+9/pVUmWRn+AEX/dgRBnBedoGVsErlW1BYbHTuE7AqPeCKhryErFAQSV7Bgque7lL
+eNlnplI+EW1X/97RULI1l9tqzLUFRdmdwzRVFSzhz2LrKpD6tQ8CAwEAAaOCATUw
+ggExMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRl
+ZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUTRV/Z4/6yvE/MyPPbfe8GWrqVm4wgbMG
+A1UdIwSBqzCBqIAUefNUB5XxXJvcnj0VpVFLFMVIcEahgYSkgYEwfzELMAkGA1UE
+BhMCQVQxCzAJBgNVBAgTAkFUMQ8wDQYDVQQHEwZWaWVubmExFDASBgNVBAoTC1Vy
+YmFuU2hpZWxkMRcwFQYDVQQDEw5VcmJhblNoaWVsZCBDQTEjMCEGCSqGSIb3DQEJ
+ARYUaW5mb0B1cmJhbnNoaWVsZC5uZXSCCQCdik6+Ywv8bDATBgNVHSUEDDAKBggr
+BgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEAlwhn2Tvzk23A
+YTNkrTJurN5BNvh4UloGo/70x6FYABnwiGZCp6OfmhDVey15iQcy0oZX6qlb6Bgv
+ILw5ossSDE7QgjnWsskgv/CVb1zJoITruovy1e/nfv6QmlaDp80+plSVAnY2lsR2
+Mzu6dJflKJz3zVjdNF0F8WEAF2RDO2o=
+-----END CERTIFICATE-----
